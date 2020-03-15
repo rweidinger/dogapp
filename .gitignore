@@ -1,3 +1,4 @@
+# files to ignore in commits
 .vscode/
 lists.tar
 data/
