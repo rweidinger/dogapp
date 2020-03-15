@@ -1,2 +1,10 @@
-pandas
+
+# run this line to conda install:
+# while read requirement; do conda install --yes $requirement; done < requirements.txt
+
 numpy
+pandas
+tensorflow==2
+scikit-learn
+matplotlib
+tqdm

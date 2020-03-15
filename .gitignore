@@ -1,1 +1,4 @@
 .vscode/
+lists.tar
+data/
+.DS_Store
