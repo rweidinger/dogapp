@@ -8,3 +8,4 @@ tensorflow==2
 scikit-learn
 matplotlib
 tqdm
+keras
