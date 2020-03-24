@@ -10,3 +10,7 @@ setup(
     author="Ryan Weidinger and Bo Reppen",
     url="https://github.com/rweidinger/dogapp"
 )
+
+
+
+https://docs.google.com/document/d/15SloVQiaIyAtymGLh_b58jpNrPyTnSL7oxXua0dsdoU/edit
