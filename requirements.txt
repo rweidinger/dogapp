@@ -4,7 +4,7 @@
 
 numpy
 pandas
-tensorflow==2.0.1
+tensorflow==2.5.3
 scikit-learn
 matplotlib
 tqdm
